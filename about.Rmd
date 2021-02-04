@@ -2,4 +2,5 @@
 title: "About This Website"
 ---
 
-This Reuben Nyaribari's first Rstudio website
+I am a Python programmer and developer. 
+I build data applications and do natural language processing.
