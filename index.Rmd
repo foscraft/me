@@ -2,5 +2,6 @@
 title: "My Website"
 ---
 
-Hello, Thank you for checking out Nyaribari Reuben's website.
+Hi, I’m Reuben, a developer and programmer building delightfully awesome things. 
 
+If you are looking for a Programmer or Back-end Developer, come and let's collaborate. I’m currently building my next big thing.

@@ -2,5 +2,21 @@
 title: "About This Website"
 ---
 
-I am a Python programmer and developer. 
-I build data applications and do natural language processing.
+Hi, I’m Nyaribari Reuben. I am a developer,programmer and a world citizen.
+You can email me at anyaribari@gmail.com.
+
+My tools :
+
+1. Python: For scripting and automation.
+
+2. Postgresql: 
+Databases.
+
+3. Bootstrap: 
+For web development
+
+4. Django: 
+Backend and API development.
+
+5. SpaCy: 
+For Natural Language Processing 
