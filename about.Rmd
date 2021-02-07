@@ -4,9 +4,9 @@ title: "What I do.."
 
 Hi, I’m Nyaribari Reuben. I am a developer,programmer and a world citizen.
 You can email me at anyaribari@gmail.com.
-![](./tema5.png)
 
-My tools :
+
+Tools :
 
 1. Python: For scripting and automation.
 
