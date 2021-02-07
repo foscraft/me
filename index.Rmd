@@ -2,6 +2,10 @@
 title: "My Website"
 ---
 
-Hi, I’m Reuben, a developer and programmer building delightfully awesome things. 
+Hi, I’m Reuben, a developer and programmer building delightfully awesome things.
+
+![](./tema.jpg)
 
 If you are looking for a Programmer or Back-end Developer, come and let's collaborate. I’m currently building my next big thing.
+
+![](./tema2.jpg)
