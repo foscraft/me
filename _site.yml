@@ -1,7 +1,6 @@
 name: "Programmer"
 navbar:
   title: "Nyaribari's page"
-  type: darkly
   left:
     - text: "Home"
       href: index.html
