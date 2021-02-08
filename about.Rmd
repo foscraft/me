@@ -10,7 +10,7 @@
 </p>
 \
 <p style="font-family: courier, courier; font-size:11pt; font-style:courier">
-    **Tools**
+    **Tech Stack**
 </p>
 
 <p style="font-family: courier, courier; font-size:11pt; font-style:courier">
