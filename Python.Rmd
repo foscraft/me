@@ -1,0 +1,41 @@
+---
+title: "What is python"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+**It is an open-source language**
+
+You don’t need to pay charges to install and use Python – it is open-source. What this means is that the source code of Python is freely available to the public. You can download it from Python’s official website. Not only that, Python supports the FLOSS (Free/Libre and Open Source Software) model, which means you can also change it and distribute it. This allows the Python community to tweak it and improve its features continuously.
+
+**It is a high-level language**
+
+Since Python is a high-level language, you need not remember its system architecture, not do you need to perform memory management. This feature contributes to Python’s user-friendliness. 
+
+**It is interpreted**
+
+Unlike compiled languages like C++ and Jave wherein you must compile the code and then run it, Python is an interpreted language. What this means is that instead of executing the source code all at once, Python executes it line by line. This makes it easier to debug a Python code because you can do it while writing the code.
+
+**It is both object-oriented and functional**
+
+An object-oriented programming language is one that can model real-world data, while a functional language focuses on functions (code that can be reused). Python supports both object-oriented and functional programming features. Also, unlike Java, Python supports multiple inheritances.
+
+**It is portable**
+
+Python is portable and highly flexible, meaning, a Python code written for a Windows machine or a Linux machine can also run on iOS, and vice versa – you don’t need to make any alterations in the code. So, with Python eliminates the need to write different code for different machines (just make sure there’s no system-dependent feature in your Python code).
+
+The videos below are full introductions to python for beginners.
+
+Pour your hot coffee and have fun.
+
+1. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rfscVS0vtbw" frameborder="0" allowfullscreen></iframe>
+
+2.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_uQrJ0TkZlc" frameborder="0" allowfullscreen></iframe>
+Have Fun!
+

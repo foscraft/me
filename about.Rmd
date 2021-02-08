@@ -1,23 +1,41 @@
----
-title: "What I do.."
----
+\
+\
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    I am a developer,programmer and a world citizen.
+</p>
+\
+\
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    You can email me at anyaribari@gmail.com.
+</p>
+\
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    **Tools**
+</p>
 
-Hi, I’m Nyaribari Reuben. I am a developer,programmer and a world citizen.
-You can email me at anyaribari@gmail.com.
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    **1.** Python: For scripting and automation.
+</p>
 
-
-Tools :
-
-1. Python: For scripting and automation.
-
-2. Postgresql: 
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    **2.** Postgresql: 
 Databases.
+</p>
 
-3. Bootstrap: 
+
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    **3.** Bootstrap: 
 For web development
+</p>
 
-4. Django: 
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+   **4.** Django: 
 Backend and API development.
+</p>
 
-5. SpaCy: 
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    **5.** SpaCy: 
 For Natural Language Processing 
+</p>
+
+

@@ -6,9 +6,26 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Technologies"
+      icon: fa-gear
+      menu:
+        - text: "Python"
+          href: Python.html
+        - text: "Bootstrap"
+          href: Bootstrap.html
+        - text: "Postgresql"
+          href: Postgresql.html
+        - text: "spacy"
+          href: spacy.html
+  right:
+    - text: "My github"
+      href: https://github.com/Nyaribari
+
+    - text: "My bitbucket"
+      href: https://bitbucket.org/nyaribari/
 
 output:
   html_document:
-    theme: flatly
+    theme: darkly
     hightlight: pygments
 output_dir: "."

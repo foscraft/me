@@ -1,11 +1,33 @@
----
-title: "Hello..."
----
+\
+\
+ **Reuben Nyaribari**, \ BSc Mathematics and Statistics.
+\
+\
+\
+![](./reuben.jpeg)
+\
+\
+\
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    reuben@reuben:~$  rm \ -rf \ bad-code
+</p>
+\
+\
+\
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    A python developer and programmer.
+</p>
+\
+\
+\
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    email: anyaribari@gmail.com
+</p>
+\
+\
+\
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    If you are looking for a Programmer or Back-end Developer, come and let's collaborate. I’m currently building my next big thing.
+</p>
 
-Hi, I’m Reuben, a developer and programmer building delightfully awesome things.
 
-![](./tema.jpg)
-
-If you are looking for a Programmer or Back-end Developer, come and let's collaborate. I’m currently building my next big thing.
-
-![](./tema3.jpg)
