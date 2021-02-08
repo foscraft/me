@@ -34,7 +34,11 @@ Backend and API development.
 </p>
 
 <p style="font-family: courier, courier; font-size:11pt; font-style:courier">
-    **5.** SpaCy: 
+    **5.** Docker
+</p>
+
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    **6.** SpaCy: 
 For Natural Language Processing 
 </p>
 
