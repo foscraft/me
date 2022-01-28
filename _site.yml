@@ -19,7 +19,7 @@ navbar:
           href: spacy.html
   right:
     - text: "My github"
-      href: https://github.com/Nyaribari
+      href: https://github.com/foscraft
 
     - text: "My bitbucket"
       href: https://bitbucket.org/nyaribari/
