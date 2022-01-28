@@ -1,6 +1,6 @@
 name: "Programmer"
 navbar:
-  title: "Nyaribari"
+  title: "foscraft"
   left:
     - text: "Home"
       href: index.html

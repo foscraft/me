@@ -18,7 +18,7 @@
 </p>
 
 <p style="font-family: courier, courier; font-size:11pt; font-style:courier">
-    **2.** Postgresql: 
+    **2.** Postgresql and PostgREST: 
 Databases.
 </p>
 
@@ -42,4 +42,13 @@ Backend and API development.
 For Natural Language Processing 
 </p>
 
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    **7.** Pyspark: 
+Databases.
+</p>
+
+<p style="font-family: courier, courier; font-size:11pt; font-style:courier">
+    **8.** Azure: 
+Databases.
+</p>
 
